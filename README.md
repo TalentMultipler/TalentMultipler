@@ -15,12 +15,7 @@
 - DevOps & Cloud ☁️  
 - Finance + Tech 💰  
 
-### 📂 My Project Spaces  
-- 🔹 [Data Analytics Projects](#)  
-- 🔹 [Cybersecurity Labs](#)  
-- 🔹 [AI Experiments](#)  
-- 🔹 [DevOps Demos](#)  
-- 🔹 [FinTech Ideas](#)  
+
 
 --- JACk Of All Trades MAster of none because My MASTER is ONE 
 ⭐ *“Multiplying talents is my mission — across skills, domains, and life.”*

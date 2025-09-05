@@ -19,7 +19,7 @@ I’m *The Dark Coder*, an MCA student (graduating July 2026) ruling Gotham’s 
 
 ## Code of Wayne
 Discipline and faith fuel me. I multiply talents to save Gotham, one commit at a time.
-
+I'm no JACK of ALL trades or master of ONE MY MASTER IS ONE
 *“What I code defines me.”*
 
 📡 Connect: [LinkedIn](https://linkedin.com/in/your-profile) | [X](https://x.com/your-handle)
